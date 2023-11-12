@@ -1,2 +1,3 @@
 # File_Explorer
-Created with CodeSandbox
+
+File explorer similar to vs code. Implemented with tree data structure. Depth First Search Algo
